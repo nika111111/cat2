@@ -5,8 +5,17 @@ header {
     color: #FFFFFF;
 }
 
-header {
+header h1{
     texti-align: center;
-    color: #FFFFFF;
 }
+    
+nav a{
     border-radius: 15px;
+    border:5px solid #2A27B4;
+    padding: 5px;
+    background-color:#00F845;
+    padding: 7px;
+    color: #8A2BE2;
+    margin:20px
+}
+
