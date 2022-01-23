@@ -19,3 +19,11 @@ nav a{
     margin:20px
 }
 
+footer p {
+    
+    border:5px solid  #EE82EE;
+    padding: 5px;
+    background-color:#DDA0DD;
+    padding: 7px;
+    color: #8A2BE2;
+}
